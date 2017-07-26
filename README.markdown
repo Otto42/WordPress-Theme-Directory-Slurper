@@ -12,7 +12,7 @@ Requirements
 ------------
 
 * Windows with Powershell (only tested on Windows 10)
-* A command line SVN client. The one that comes with [TortoiseSVN][https://tortoisesvn.net/] works.
+* A command line SVN client. The one that comes with [TortoiseSVN](https://tortoisesvn.net/) works.
 
 Instructions
 ------------
@@ -51,13 +51,13 @@ As of Summer 2017, the whole of the themes directory takes up about 7.5 GB. A sm
 The last successful update revision number is stored in `themes/last-revision`. You can just overwrite that and the next `update` will start after that revision.
 
 ### What if I want Plugins instead of Themes? ###
-Check out the [WordPress-Plugin-Directory-Slurper][https://github.com/markjaquith/WordPress-Plugin-Directory-Slurper].
+Check out the [WordPress-Plugin-Directory-Slurper](https://github.com/markjaquith/WordPress-Plugin-Directory-Slurper).
 
 Copyright & License
 -------------------
 Copyright (C) 2017 Samuel Wood
 
-Based on [WordPress-Theme-Directory-Slurper][https://github.com/aaronjorbin/WordPress-Theme-Directory-Slurper] which is Copyright (C) 2015 Aaron Jorbin which was itself based on [WordPress-Plugin-Directory-Slurper][https://github.com/markjaquith/WordPress-Plugin-Directory-Slurper] which is Copyright (C) 2011 Mark Jaquith.
+Based on [WordPress-Theme-Directory-Slurper](https://github.com/aaronjorbin/WordPress-Theme-Directory-Slurper) which is Copyright (C) 2015 Aaron Jorbin which was itself based on [WordPress-Plugin-Directory-Slurper](https://github.com/markjaquith/WordPress-Plugin-Directory-Slurper) which is Copyright (C) 2011 Mark Jaquith.
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
