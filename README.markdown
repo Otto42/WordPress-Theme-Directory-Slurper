@@ -25,7 +25,7 @@ If you get a scripting error on the first run, then you need to enable local scr
 
 If you have downloaded the scripts using Internet Explorer or some other Microsoft product, then the script files may have their "internet" flag set, which means they won't run even with RemoteSigned. Since it is dangerous to enable arbitrary scripts to run without signing, I recommend not using Microsoft products to download the script, or alternatively copy/pasting the content of the script into a new text file which you can create yourself and rename accordingly, to eliminate the internet flag.
 
-When the script is finished, the `theme` directory will contain all the themes. You can change which directories are used in the first three lines of the file.
+When the script is finished, the `themes` directory will contain all the themes. You can change which directories are used in the first three lines of the file.
 
 FAQ
 ----

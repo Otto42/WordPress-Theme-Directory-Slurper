@@ -1,6 +1,6 @@
 $directory = 'themes'
 $download = 'zips/{0}.zip'
-$revision_file = "$directory/last-revision-test"
+$revision_file = "$directory/last-revision"
 
 Write-Output 'Determining most recent SVN revision...'
 Try{
@@ -71,6 +71,6 @@ if ( $last_revision -ne $svn_last_revision ) {
 	if ( $? ) {
 		echo "[CLEANUP] Updated $revision_file to $svn_last_revision"
 	} else {
-		echo "[ERROR] Could not update $revision_file to $svn_last_revision "
+		echo "[ERROR] Could not update $revision_file to $svn_last_revision"
 	}
 }
